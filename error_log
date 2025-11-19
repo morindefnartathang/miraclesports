@@ -1,0 +1,457 @@
+[03-Nov-2025 06:19:13 UTC] PHP Notice:  Undefined variable: connect in /home/narentolk/public_html/miraclesports.in/index.php on line 93
+[03-Nov-2025 06:19:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/narentolk/public_html/miraclesports.in/index.php on line 93
+[03-Nov-2025 06:19:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/narentolk/public_html/miraclesports.in/index.php on line 94
+[03-Nov-2025 07:08:08 UTC] PHP Notice:  Array to string conversion in /home/narentolk/public_html/miraclesports.in/session.php on line 18
+[03-Nov-2025 07:08:08 UTC] PHP Fatal error:  Call to undefined function random_bytes() in /home/narentolk/public_html/miraclesports.in/session.php on line 30
+[03-Nov-2025 07:08:33 UTC] PHP Notice:  Array to string conversion in /home/narentolk/public_html/miraclesports.in/session.php on line 18
+[03-Nov-2025 07:08:33 UTC] PHP Fatal error:  Call to undefined function random_bytes() in /home/narentolk/public_html/miraclesports.in/session.php on line 30
+[03-Nov-2025 07:08:37 UTC] PHP Notice:  Array to string conversion in /home/narentolk/public_html/miraclesports.in/session.php on line 18
+[03-Nov-2025 07:08:37 UTC] PHP Fatal error:  Call to undefined function random_bytes() in /home/narentolk/public_html/miraclesports.in/session.php on line 30
+[03-Nov-2025 07:08:38 UTC] PHP Notice:  Array to string conversion in /home/narentolk/public_html/miraclesports.in/session.php on line 18
+[03-Nov-2025 07:08:38 UTC] PHP Fatal error:  Call to undefined function random_bytes() in /home/narentolk/public_html/miraclesports.in/session.php on line 30
+[03-Nov-2025 07:08:38 UTC] PHP Notice:  Array to string conversion in /home/narentolk/public_html/miraclesports.in/session.php on line 18
+[03-Nov-2025 07:08:38 UTC] PHP Fatal error:  Call to undefined function random_bytes() in /home/narentolk/public_html/miraclesports.in/session.php on line 30
+[03-Nov-2025 07:08:38 UTC] PHP Notice:  Array to string conversion in /home/narentolk/public_html/miraclesports.in/session.php on line 18
+[03-Nov-2025 07:08:38 UTC] PHP Fatal error:  Call to undefined function random_bytes() in /home/narentolk/public_html/miraclesports.in/session.php on line 30
+[03-Nov-2025 07:09:20 UTC] PHP Notice:  Array to string conversion in /home/narentolk/public_html/miraclesports.in/session.php on line 18
+[03-Nov-2025 07:15:39 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/narentolk/public_html/miraclesports.in/checkout.php on line 6
+[03-Nov-2025 07:15:50 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/narentolk/public_html/miraclesports.in/checkout.php on line 6
+[03-Nov-2025 07:16:08 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:16:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:16:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:16:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:16:10 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:16:13 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:16:14 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:16:29 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/narentolk/public_html/miraclesports.in/checkout.php on line 128
+[03-Nov-2025 07:17:06 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 6
+[03-Nov-2025 07:17:06 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:17:06 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:17:06 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:17:06 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:17:06 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 128
+[03-Nov-2025 07:17:06 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:17:06 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:17:06 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:17:37 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 6
+[03-Nov-2025 07:17:37 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:17:37 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:17:37 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:17:37 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:17:37 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 128
+[03-Nov-2025 07:17:37 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:17:37 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:17:37 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:19:24 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 6
+[03-Nov-2025 07:19:24 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:19:24 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:19:24 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:19:24 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:19:24 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 128
+[03-Nov-2025 07:19:24 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:19:24 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:19:24 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 6
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 128
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 6
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 128
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 6
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 128
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:21:42 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:22:01 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 6
+[03-Nov-2025 07:22:01 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:22:01 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:22:01 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:22:01 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:22:01 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 128
+[03-Nov-2025 07:22:01 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:22:01 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:22:01 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:23:09 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 6
+[03-Nov-2025 07:23:09 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:23:09 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:23:09 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:23:09 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:23:09 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 128
+[03-Nov-2025 07:23:09 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:23:09 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:23:09 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:23:35 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 6
+[03-Nov-2025 07:23:35 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:23:35 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:23:35 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:23:35 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:23:35 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 128
+[03-Nov-2025 07:23:35 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:23:35 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:23:35 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:25:35 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/narentolk/public_html/miraclesports.in/session.php on line 74
+[03-Nov-2025 07:32:33 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/narentolk/public_html/miraclesports.in/session.php on line 74
+[03-Nov-2025 07:33:13 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/narentolk/public_html/miraclesports.in/session.php on line 74
+[03-Nov-2025 07:35:26 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 6
+[03-Nov-2025 07:35:26 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:35:26 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:35:26 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:35:26 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:35:26 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 128
+[03-Nov-2025 07:35:26 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:35:26 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:35:26 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 9
+[03-Nov-2025 07:35:55 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 8
+[03-Nov-2025 07:35:55 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 11
+[03-Nov-2025 07:35:55 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 11
+[03-Nov-2025 07:35:55 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 11
+[03-Nov-2025 07:35:55 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 11
+[03-Nov-2025 07:35:55 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 130
+[03-Nov-2025 07:35:55 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 11
+[03-Nov-2025 07:35:55 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 11
+[03-Nov-2025 07:35:55 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 11
+[03-Nov-2025 07:36:13 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 8
+[03-Nov-2025 07:36:13 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 11
+[03-Nov-2025 07:36:13 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 11
+[03-Nov-2025 07:36:13 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 11
+[03-Nov-2025 07:36:13 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 11
+[03-Nov-2025 07:36:13 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 130
+[03-Nov-2025 07:36:13 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 11
+[03-Nov-2025 07:36:13 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 11
+[03-Nov-2025 07:36:13 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 11
+[03-Nov-2025 07:38:01 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 10
+[03-Nov-2025 07:38:01 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:38:01 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:38:01 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:38:01 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:38:01 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 132
+[03-Nov-2025 07:38:01 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:38:01 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:38:01 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:38:05 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 10
+[03-Nov-2025 07:38:05 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:38:05 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:38:05 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:38:05 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:38:05 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 132
+[03-Nov-2025 07:38:05 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:38:05 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:38:05 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:38:37 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 10
+[03-Nov-2025 07:38:37 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:38:37 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:38:37 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:38:37 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:38:37 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 132
+[03-Nov-2025 07:38:37 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:38:37 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:38:37 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:39:51 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 10
+[03-Nov-2025 07:39:51 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:39:51 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:39:51 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:39:51 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:39:51 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 132
+[03-Nov-2025 07:39:51 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:39:51 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:39:51 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:40:05 UTC] PHP Notice:  Undefined index: event_id in /home/narentolk/public_html/miraclesports.in/checkout.php on line 8
+[03-Nov-2025 07:40:05 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 10
+[03-Nov-2025 07:40:05 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:40:05 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:40:05 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:40:05 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:40:05 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 132
+[03-Nov-2025 07:40:05 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:40:05 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:40:05 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:41:10 UTC] PHP Notice:  Undefined index: event_id in /home/narentolk/public_html/miraclesports.in/checkout.php on line 8
+[03-Nov-2025 07:41:10 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 10
+[03-Nov-2025 07:41:10 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:41:10 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:41:10 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:41:10 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:41:10 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 230
+[03-Nov-2025 07:41:10 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:41:10 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:41:10 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:42:39 UTC] PHP Notice:  Undefined index: event_id in /home/narentolk/public_html/miraclesports.in/checkout.php on line 8
+[03-Nov-2025 07:42:39 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 10
+[03-Nov-2025 07:42:39 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:42:39 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:42:39 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:42:39 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:42:39 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 230
+[03-Nov-2025 07:42:39 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:42:39 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:42:39 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:42:41 UTC] PHP Notice:  Undefined index: event_id in /home/narentolk/public_html/miraclesports.in/checkout.php on line 8
+[03-Nov-2025 07:42:41 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 10
+[03-Nov-2025 07:42:41 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:42:41 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:42:41 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:42:41 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:42:41 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 230
+[03-Nov-2025 07:42:41 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:42:41 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:42:41 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:42:46 UTC] PHP Notice:  Undefined index: event_id in /home/narentolk/public_html/miraclesports.in/checkout.php on line 8
+[03-Nov-2025 07:42:46 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 10
+[03-Nov-2025 07:42:46 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:42:46 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:42:46 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:42:46 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:42:46 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 230
+[03-Nov-2025 07:42:46 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:42:46 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:42:46 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:36 UTC] PHP Notice:  Undefined index: event_id in /home/narentolk/public_html/miraclesports.in/checkout.php on line 8
+[03-Nov-2025 07:43:36 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 10
+[03-Nov-2025 07:43:36 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:36 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:36 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:36 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:36 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 230
+[03-Nov-2025 07:43:36 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:36 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:36 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:39 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 10
+[03-Nov-2025 07:43:39 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:39 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:39 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:39 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:39 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 230
+[03-Nov-2025 07:43:39 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:39 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:39 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:41 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 10
+[03-Nov-2025 07:43:41 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:41 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:41 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:41 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:41 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 230
+[03-Nov-2025 07:43:41 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:41 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:41 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:42 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 10
+[03-Nov-2025 07:43:42 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:42 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:42 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:42 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:42 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 230
+[03-Nov-2025 07:43:42 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:42 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:43:42 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:45:46 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 10
+[03-Nov-2025 07:45:46 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:45:46 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:45:46 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:45:46 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:45:46 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 232
+[03-Nov-2025 07:45:46 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:45:46 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:45:46 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:45:47 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 10
+[03-Nov-2025 07:45:47 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:45:47 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:45:47 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:45:47 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:45:47 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 232
+[03-Nov-2025 07:45:47 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:45:47 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:45:47 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:46:29 UTC] PHP Notice:  Undefined index: billing in /home/narentolk/public_html/miraclesports.in/checkout.php on line 10
+[03-Nov-2025 07:46:29 UTC] PHP Notice:  Undefined index: first_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:46:29 UTC] PHP Notice:  Undefined index: last_name in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:46:29 UTC] PHP Notice:  Undefined index: email in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:46:29 UTC] PHP Notice:  Undefined index: address in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:46:29 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 232
+[03-Nov-2025 07:46:29 UTC] PHP Notice:  Undefined index: state in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:46:29 UTC] PHP Notice:  Undefined index: city in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:46:29 UTC] PHP Notice:  Undefined index: zip in /home/narentolk/public_html/miraclesports.in/checkout.php on line 13
+[03-Nov-2025 07:49:35 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 213
+[03-Nov-2025 07:49:36 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 213
+[03-Nov-2025 07:49:36 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 213
+[03-Nov-2025 07:50:19 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 213
+[03-Nov-2025 07:50:43 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 213
+[03-Nov-2025 07:52:26 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 213
+[03-Nov-2025 07:52:28 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 213
+[03-Nov-2025 07:52:28 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 213
+[03-Nov-2025 07:52:29 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 213
+[03-Nov-2025 07:52:29 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 213
+[03-Nov-2025 07:52:29 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 213
+[03-Nov-2025 07:52:29 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 213
+[03-Nov-2025 07:52:30 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 213
+[03-Nov-2025 07:52:31 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 213
+[03-Nov-2025 07:52:31 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 213
+[03-Nov-2025 10:38:37 UTC] PHP Notice:  Undefined index: event_id in /home/narentolk/public_html/miraclesports.in/venue_event_detail_view.php on line 4
+[03-Nov-2025 10:38:41 UTC] PHP Notice:  Undefined index: event_id in /home/narentolk/public_html/miraclesports.in/venue_event_detail_view.php on line 4
+[03-Nov-2025 10:38:42 UTC] PHP Notice:  Undefined index: event_id in /home/narentolk/public_html/miraclesports.in/venue_event_detail_view.php on line 4
+[03-Nov-2025 11:43:03 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/narentolk/public_html/miraclesports.in/checkout.php on line 80
+[03-Nov-2025 12:44:41 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/narentolk/public_html/miraclesports.in/checkout.php on line 286
+[03-Nov-2025 12:44:54 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/narentolk/public_html/miraclesports.in/checkout.php on line 286
+[03-Nov-2025 12:47:50 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 92
+[03-Nov-2025 12:47:55 UTC] PHP Notice:  Undefined index: country in /home/narentolk/public_html/miraclesports.in/checkout.php on line 92
+[09-Nov-2025 00:08:57 UTC] PHP Notice:  Undefined index: event_id in /home/narentolk/public_html/miraclesports.in/venue_event_detail_view.php on line 4
+[12-Nov-2025 11:42:51 UTC] PHP Fatal error:  Call to undefined function sodium_hex2bin() in /home/narentolk/public_html/miraclesports.in/checkout.php on line 179
+[12-Nov-2025 11:43:55 UTC] PHP Fatal error:  Call to undefined function sodium_hex2bin() in /home/narentolk/public_html/miraclesports.in/checkout.php on line 170
+[12-Nov-2025 11:44:00 UTC] PHP Fatal error:  Call to undefined function sodium_hex2bin() in /home/narentolk/public_html/miraclesports.in/checkout.php on line 170
+[12-Nov-2025 11:44:08 UTC] PHP Fatal error:  Call to undefined function sodium_hex2bin() in /home/narentolk/public_html/miraclesports.in/checkout.php on line 160
+[12-Nov-2025 11:52:30 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/narentolk/public_html/miraclesports.in/checkout.php on line 81
+[12-Nov-2025 11:57:20 UTC] PHP Fatal error:  Call to undefined function generateordernumber() in /home/narentolk/public_html/miraclesports.in/checkout.php on line 132
+[12-Nov-2025 12:01:08 UTC] PHP Fatal error:  Call to undefined function generateordernumber() in /home/narentolk/public_html/miraclesports.in/checkout.php on line 134
+[12-Nov-2025 12:04:17 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/narentolk/public_html/miraclesports.in/checkout.php on line 88
+[12-Nov-2025 12:12:53 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/narentolk/public_html/miraclesports.in/checkout.php on line 81
+[12-Nov-2025 12:15:12 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/narentolk/public_html/miraclesports.in/pay.php on line 12
+[12-Nov-2025 12:27:55 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/narentolk/public_html/miraclesports.in/pay.php on line 143
+[12-Nov-2025 12:27:55 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/narentolk/public_html/miraclesports.in/pay.php on line 196
+[12-Nov-2025 12:27:55 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 218
+[12-Nov-2025 12:27:55 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 218
+[12-Nov-2025 12:27:55 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/narentolk/public_html/miraclesports.in/pay.php on line 143
+[12-Nov-2025 12:27:55 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/narentolk/public_html/miraclesports.in/pay.php on line 196
+[12-Nov-2025 12:27:55 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 218
+[12-Nov-2025 12:27:55 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 218
+[12-Nov-2025 12:27:55 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/narentolk/public_html/miraclesports.in/pay.php on line 143
+[12-Nov-2025 12:27:55 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/narentolk/public_html/miraclesports.in/pay.php on line 196
+[12-Nov-2025 12:27:55 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 218
+[12-Nov-2025 12:27:55 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 218
+[12-Nov-2025 12:28:55 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/narentolk/public_html/miraclesports.in/pay.php on line 143
+[12-Nov-2025 12:28:55 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/narentolk/public_html/miraclesports.in/pay.php on line 196
+[12-Nov-2025 12:28:55 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 218
+[12-Nov-2025 12:28:55 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 218
+[12-Nov-2025 12:28:55 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/narentolk/public_html/miraclesports.in/pay.php on line 143
+[12-Nov-2025 12:28:55 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/narentolk/public_html/miraclesports.in/pay.php on line 196
+[12-Nov-2025 12:28:55 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 218
+[12-Nov-2025 12:28:55 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 218
+[12-Nov-2025 12:29:42 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 206
+[12-Nov-2025 12:29:42 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 206
+[12-Nov-2025 12:29:43 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 206
+[12-Nov-2025 12:29:43 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 206
+[12-Nov-2025 12:29:43 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 206
+[12-Nov-2025 12:29:43 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 206
+[12-Nov-2025 12:30:05 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 206
+[12-Nov-2025 12:30:05 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 206
+[12-Nov-2025 12:30:06 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 206
+[12-Nov-2025 12:30:06 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 206
+[12-Nov-2025 12:30:06 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 206
+[12-Nov-2025 12:30:06 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 206
+[12-Nov-2025 12:31:27 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:27 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:27 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:27 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:27 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:27 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:30 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:30 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:31 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:31 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:31 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:31 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:41 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:41 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:41 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:41 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:41 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:41 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:42 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:42 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:43 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:43 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:43 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:43 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:43 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:43 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:43 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:43 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:43 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:31:43 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:32:08 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:32:08 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:32:09 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:32:09 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:32:09 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:32:09 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:26 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:26 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:26 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:26 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:26 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:26 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:37 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:37 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:37 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:37 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:37 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:37 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:52 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:52 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:52 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:52 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:52 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:52 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:54 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:54 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:54 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:54 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:54 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:54 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:54 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:54 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:54 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:54 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:54 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:33:54 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:34:03 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:34:03 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:34:03 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:34:03 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:34:04 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:34:04 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:52:18 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:52:18 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:52:19 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:52:19 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:52:19 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:52:19 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:52:43 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:52:43 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:52:44 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:52:44 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:52:44 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:52:44 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:53:00 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:53:00 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:53:01 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:53:01 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:53:01 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:53:01 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:53:24 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:53:24 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:53:24 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:53:24 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:53:24 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:53:24 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:56:01 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:56:01 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:56:02 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:56:02 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:56:02 UTC] PHP Warning:  include(mobilemenu.php): failed to open stream: No such file or directory in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[12-Nov-2025 12:56:02 UTC] PHP Warning:  include(): Failed opening 'mobilemenu.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/narentolk/public_html/miraclesports.in/pay.php on line 209
+[15-Nov-2025 03:33:10 UTC] PHP Notice:  Undefined index: event_id in /home/narentolk/public_html/miraclesports.in/venue_event_detail_view.php on line 4
+[16-Nov-2025 17:27:37 UTC] PHP Notice:  Undefined index: event_id in /home/narentolk/public_html/miraclesports.in/venue_event_detail_view.php on line 4

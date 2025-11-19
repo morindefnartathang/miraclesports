@@ -1,0 +1,6 @@
+[24-Jan-2025 17:06:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home5/omsiga/public_html/admin/include/config.php:11
+Stack trace:
+#0 /home5/omsiga/public_html/admin/include/config.php(11): mysqli_connect()
+#1 /home5/omsiga/public_html/admin/default/get_sub_category.php(3): include('/home5/omsiga/p...')
+#2 {main}
+  thrown in /home5/omsiga/public_html/admin/include/config.php on line 11

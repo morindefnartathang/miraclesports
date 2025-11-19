@@ -1,0 +1,241 @@
+.card-body {
+    padding: 24px;
+    position: relative;
+}
+p.text-right.invoice-mobile {
+    margin-bottom: 0px;
+    font-size: 16px;
+    font-weight: bolder;
+}
+.in-address{
+        margin-top: -7px;
+}
+
+.margin5{
+    margin-top: -5px;
+}
+.pad10{
+    padding: 10px;
+}
+#inv-header{
+    border: 1px solid #000;
+    border-radius: 11px!important;
+}
+
+#inv-to{
+     padding: 10px 0px 0px 30px;
+    border: 1px solid;
+    border-radius: 10px!important;
+    max-height: 150px;
+     min-height: 150px;
+
+}
+#to-address{
+        padding-left: 20px;
+}
+#inv-dtls #inv-left {
+    width: 40%;
+    float: left;
+    position: relative;
+}
+#inv-dtls  #inv-left .pill 
+{
+    float: right;
+    /*padding: 3px 7px;*/
+}
+#inv-dtls{
+    position: absolute;
+    padding: 15px 0px 0px 30px;
+    border: 1px solid;
+    border-radius: 10px!important;
+        max-height: 150px;
+        min-height: 150px;
+
+}
+.padbtm5{
+    padding-bottom: 5px;
+}
+#border-btm-hide
+{
+    border-bottom-style: hidden;
+}
+#border-top-hide
+{
+    border-top-style: hidden;
+}
+#border-left-hide
+{
+    border-left-style: hidden;
+}
+#border-right-hide
+{
+    border-right-style: hidden;
+}
+#rupees{
+    border-bottom: 1px dotted #000;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 600;
+}
+
+#inv-broder1 {
+    border: double black 5px;
+    border-radius:5px!important;
+    padding: 1px;
+    margin: 1px;
+}
+#store-name{
+    font-family: 'Merriweather', serif;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+}
+#Offi{
+    width: 180px;
+    /* position: absolute;
+     */
+     float: right;
+     margin-right: 37px;
+}
+#mob{
+    width: 160px;
+    /* position: absolute;
+     */
+     float: right;
+     margin-right: 37px;
+
+}
+#IRON{
+    font-family: 'Merriweather', serif;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+    }
+
+#RECEIPT{
+    font-family: 'Merriweather', serif;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+}
+
+/*Address*/
+.receipt-address1{
+    width: 10.66667%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+}
+.receipt-address2{
+    width: 87.66667%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+
+}
+.receipt-address2 #content{    
+    border-bottom: 2px dotted #000;
+    text-decoration: none;
+    text-align: center;
+    /* overflow: hidden; */
+    width: 90%;
+}
+/*end Address*/
+/*Amount*/
+.receipt-amount1{
+    width: 23%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+
+}
+
+.receipt-amount2{
+    width: 73.66667%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+}
+.receipt-amount2 #content{    
+    border-bottom: 2px dotted #000;
+    text-decoration: none;
+    text-align: center;
+    /* overflow: hidden; */
+    width: 90%;
+}
+/*End Amount*/
+/*Cash*/
+.receipt-cash1{
+    width: 36%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+
+}
+
+.receipt-cash2{
+    width: 59.5%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+}
+.receipt-cash2 #content{    
+    border-bottom: 2px dotted #000;
+    text-decoration: none;
+    text-align: center;
+    /* overflow: hidden; */
+    width: 90%;
+}
+/*Cash*/
+
+/*Towards*/
+.receipt-towards1{
+    width: 10.66667%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+}
+.receipt-towards2{
+    width: 87.66667%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+
+}
+.receipt-towards2 #content{    
+    border-bottom: 2px dotted #000;
+    text-decoration: none;
+    text-align: center;
+    /* overflow: hidden; */
+    width: 90%;
+}
+/*end Towards*/
+/*receipt foooter*/
+
+.receipt-footer1{
+    width: 35.66667%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+}
+.receipt-footer2{
+    width: 60.66667%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+
+}
+.receipt-footer2 #sign{    
+    text-align: -webkit-right;
+    width: 89%;
+    margin-top: -15px;
+}
+
+
+#rs {
+    width: 200px;
+    padding: 10px;
+    border: 1px solid #000;
+    margin: 0;
+    /*margin-top: 30px;*/
+}
+.receipt-footer1 p{
+        margin: 2px;
+}

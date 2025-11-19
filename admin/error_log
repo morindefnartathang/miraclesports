@@ -1,0 +1,17 @@
+[01-Nov-2025 03:55:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/narentolk/public_html/miraclesports.in/admin/config.php on line 9
+[01-Nov-2025 04:08:40 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/narentolk/public_html/miraclesports.in/admin/config.php on line 9
+[01-Nov-2025 07:30:35 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/narentolk/public_html/miraclesports.in/admin/config.php on line 9
+[03-Nov-2025 04:41:12 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/narentolk/public_html/miraclesports.in/admin/config.php on line 9
+[03-Nov-2025 04:41:43 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/narentolk/public_html/miraclesports.in/admin/config.php on line 9
+[03-Nov-2025 04:42:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'miraclesports_db'@'localhost' (using password: YES) in /home/narentolk/public_html/miraclesports.in/admin/config.php on line 8
+[03-Nov-2025 04:44:01 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'miraclesports_db'@'localhost' (using password: YES) in /home/narentolk/public_html/miraclesports.in/admin/config.php on line 8
+[03-Nov-2025 04:45:01 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/narentolk/public_html/miraclesports.in/admin/config.php on line 8
+[03-Nov-2025 04:46:04 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/narentolk/public_html/miraclesports.in/admin/config.php on line 9
+[03-Nov-2025 04:46:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/narentolk/public_html/miraclesports.in/admin/config.php on line 9
+[03-Nov-2025 04:46:06 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/narentolk/public_html/miraclesports.in/admin/config.php on line 9
+[03-Nov-2025 04:46:06 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/narentolk/public_html/miraclesports.in/admin/config.php on line 9
+[03-Nov-2025 04:46:06 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/narentolk/public_html/miraclesports.in/admin/config.php on line 9
+[03-Nov-2025 05:19:44 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/narentolk/public_html/miraclesports.in/admin/config.php on line 9
+[08-Nov-2025 10:33:01 UTC] PHP Warning:  mysqli::mysqli(): (HY000/2002): Connection refused in /home/narentolk/public_html/miraclesports.in/admin/config.php on line 9
+[08-Nov-2025 10:38:44 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/narentolk/public_html/miraclesports.in/admin/config.php on line 9
+[12-Nov-2025 11:04:25 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/narentolk/public_html/miraclesports.in/admin/config.php on line 9

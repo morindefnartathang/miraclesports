@@ -1,0 +1,7 @@
+[05-May-2025 12:11:58 Asia/Kolkata] PHP Warning:  unlink(acheivement/): Is a directory in /home5/azroutechessinst/public_html/admin/news.php on line 24
+[05-May-2025 12:12:39 Asia/Kolkata] PHP Warning:  unlink(): No such file or directory in /home5/azroutechessinst/public_html/admin/news.php on line 22
+[12-May-2025 13:13:58 Asia/Kolkata] PHP Warning:  unlink(acheivement/): Is a directory in /home5/azroutechessinst/public_html/admin/acheivements.php on line 22
+[21-Aug-2025 00:51:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home5/azroutechessinst/public_html/admin/include/config.php on line 11
+[30-Sep-2025 17:02:10 Asia/Kolkata] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home5/azroutechessinst/public_html/admin/tournament_list.php on line 53
+[30-Sep-2025 17:02:10 Asia/Kolkata] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home5/azroutechessinst/public_html/admin/tournament_list.php on line 53
+[30-Sep-2025 17:02:10 Asia/Kolkata] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home5/azroutechessinst/public_html/admin/tournament_list.php on line 53
