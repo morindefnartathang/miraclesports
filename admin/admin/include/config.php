@@ -4,9 +4,13 @@
 // ini_set('display_startup_errors', 1);
 // error_reporting(E_ALL);
 //---> Connect to DB --->
+// $DB_HOST = 'localhost';
+// $DB_USER = 'miracle_sports';
+// $DB_PASS = 'miracle_sports';
+// $DB_NAME = 'miracle_sports';
 $DB_HOST = 'localhost';
-$DB_USER = 'miracle_sports';
-$DB_PASS = 'miracle_sports';
+$DB_USER = 'root';
+$DB_PASS = ''; // empty password
 $DB_NAME = 'miracle_sports';
 
 
