@@ -323,8 +323,8 @@ body {
 }
 
 .main-logo img {
-    width: 60px;
-	padding-top: 0;
+width: 55px!important;
+padding-top: 0;
 }
 
 .main-logo {

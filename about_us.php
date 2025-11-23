@@ -1,144 +1,188 @@
 ﻿<!DOCTYPE html>
 <html lang="en" class="h-100">
-	
+
 <!-- Mirrored from www.gambolthemes.net/html-items/barren-html/disable-demo-link/about_us.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 16 Oct 2025 13:21:33 GMT -->
+
 <head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta name="viewport" content="width=device-width, shrink-to-fit=9">
-		<meta name="description" content="Gambolthemes">
-		<meta name="author" content="Gambolthemes">		
-		<title>Barren - Simple Online Event Ticketing System</title>
-		
-		<!-- Favicon Icon -->
-		<link rel="icon" type="image/png" href="images/fav.png">
-		
-		<!-- Stylesheets -->
-		<link rel="preconnect" href="https://fonts.googleapis.com/">
-		<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap" rel="stylesheet">
-		<link href='vendor/unicons-2.0.1/css/unicons.css' rel='stylesheet'>
-		<link href="css/styles.css" rel="stylesheet">
-		<link href="css/responsive.css" rel="stylesheet">
-		<link href="css/night-mode.css" rel="stylesheet">
-		
-		<!-- Vendor Stylesheets -->
-		<link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
-		<link href="vendor/OwlCarousel/assets/owl.carousel.css" rel="stylesheet">
-		<link href="vendor/OwlCarousel/assets/owl.theme.default.min.css" rel="stylesheet">
-		<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-		<link href="vendor/bootstrap-select/dist/css/bootstrap-select.min.css" rel="stylesheet">		
-		
-	</head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, shrink-to-fit=9">
+    <meta name="description" content="Gambolthemes">
+    <meta name="author" content="Gambolthemes">
+    <title>Barren - Simple Online Event Ticketing System</title>
+
+    <!-- Favicon Icon -->
+    <link rel="icon" type="image/png" href="images/fav.png">
+
+    <!-- Stylesheets -->
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap" rel="stylesheet">
+    <link href='vendor/unicons-2.0.1/css/unicons.css' rel='stylesheet'>
+    <link href="css/styles.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
+    <link href="css/night-mode.css" rel="stylesheet">
+
+    <!-- Vendor Stylesheets -->
+    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+    <link href="vendor/OwlCarousel/assets/owl.carousel.css" rel="stylesheet">
+    <link href="vendor/OwlCarousel/assets/owl.theme.default.min.css" rel="stylesheet">
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="vendor/bootstrap-select/dist/css/bootstrap-select.min.css" rel="stylesheet">
+    <!-- Project CSS -->
+    <link href="css/styles.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
+    <link href="css/night-mode.css" rel="stylesheet">
+
+</head>
 
 <body class="d-flex flex-column h-100">
-	<!-- About Barren Model Start-->
-	<div class="modal fade" id="communitieModal" tabindex="-1" aria-labelledby="communitieModalLabel" aria-hidden="true">
-		<div class="modal-dialog modal-lg">
-			<div class="modal-content">
-				<div class="modal-header">
-					<h5 class="modal-title" id="communitieModalLabel">We are all about enriching communities​</h5>
-					<button type="button" class="close-model-btn" data-bs-dismiss="modal" aria-label="Close"><i class="uil uil-multiply"></i></button>
-				</div>
-				<div class="modal-body">
-					  
-					<div class="model-content main-form mt-4">
-						<p class="mb-4">Cras egestas, enim quis lobortis interdum, leo risus bibendum metus, non eleifend nulla odio vel nisi. Quisque gravida lacinia risus, eget vulputate odio lacinia nec. Sed at ipsum nec urna aliquam gravida. Morbi quis lacinia justo. Cras accumsan felis quis hendrerit finibus. Mauris pellentesque maximus felis, vitae mattis ante interdum vel. Maecenas sit amet lacus leo. Aliquam vitae magna quis elit tempus gravida. Nam ornare ex a magna vehicula, sed mollis nibh elementum. Ut vestibulum in quam et aliquet. Nam faucibus commodo nibh auctor dictum.</p>
-						<p class="mb-0">nteger quis sem rutrum est congue scelerisque. Praesent porttitor sed leo vel accumsan. Quisque id sem sit amet quam posuere feugiat nec eget ligula. Mauris eget tempor augue. Donec faucibus nunc sit amet lorem tempus tincidunt. Nullam tristique, nibh vitae posuere viverra, ex nisl porta massa, non eleifend tellus leo sed orci. Nullam posuere, magna eu pulvinar gravida, tortor dui fringilla nisl, id sagittis risus magna et justo. Fusce non malesuada lacus.</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- About Barren Model End-->
-	<!-- Header Start-->
-	<?php include "header.php";?>
-	<!-- Header End-->
-	<!-- Body Start-->
-	<div class="wrapper">
-		<div class="hero-banner">
-			<div class="container">
-			<main class="wrap">
-    <span class="pill">About MiracleSports</span>
-    <h1>Making Tournament Booking & Management Effortless</h1>
-    <p class="lead">
-      MiracleSports is a modern platform that brings <strong>players, teams, and organisers</strong> together.
-      Discover events, book entries, manage fixtures, track results — all in one place.
-    </p>
+    <!-- About Barren Model Start-->
+    <div class="modal fade" id="communitieModal" tabindex="-1" aria-labelledby="communitieModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="communitieModalLabel">We are all about enriching communities​</h5>
+                    <button type="button" class="close-model-btn" data-bs-dismiss="modal" aria-label="Close"><i class="uil uil-multiply"></i></button>
+                </div>
+                <div class="modal-body">
 
-    <section class="grid grid-2 card">
-      <div>
-        <h2>Our Mission</h2>
-        <p>
-          We empower the sports community by digitising how tournaments are discovered, booked, and run —
-          so everyone can focus on what truly matters: <strong>the game</strong>.
-        </p>
-
-        <h2>What We Do</h2>
-        <ul>
-          <li><strong>Online Tournament Bookings:</strong> Find, register, and pay in a few clicks.</li>
-          <li><strong>Team & Player Management:</strong> Build squads, add players, track participation.</li>
-          <li><strong>Organiser Dashboard:</strong> Publish events, manage entries, fixtures, and results.</li>
-          <li><strong>Secure Payments:</strong> Fast, safe transactions with trusted gateways.</li>
-          <li><strong>Live Updates & Alerts:</strong> Schedules, venue details, scores — instantly.</li>
-        </ul>
-      </div>
-      <div>
-        <div class="kpis">
-          <div class="kpi"><div class="num">1 Platform</div><div>For all your tournaments</div></div>
-          <div class="kpi"><div class="num">24/7</div><div>Booking access</div></div>
-          <div class="kpi"><div class="num">Secure</div><div>Payments & data</div></div>
-          <div class="kpi"><div class="num">Real-time</div><div>Updates & alerts</div></div>
+                    <div class="model-content main-form mt-4">
+                        <p class="mb-4">Cras egestas, enim quis lobortis interdum, leo risus bibendum metus, non eleifend nulla odio vel nisi. Quisque gravida lacinia risus, eget vulputate odio lacinia nec. Sed at ipsum nec urna aliquam gravida. Morbi quis lacinia justo.
+                            Cras accumsan felis quis hendrerit finibus. Mauris pellentesque maximus felis, vitae mattis ante interdum vel. Maecenas sit amet lacus leo. Aliquam vitae magna quis elit tempus gravida. Nam ornare ex a magna vehicula, sed mollis
+                            nibh elementum. Ut vestibulum in quam et aliquet. Nam faucibus commodo nibh auctor dictum.</p>
+                        <p class="mb-0">nteger quis sem rutrum est congue scelerisque. Praesent porttitor sed leo vel accumsan. Quisque id sem sit amet quam posuere feugiat nec eget ligula. Mauris eget tempor augue. Donec faucibus nunc sit amet lorem tempus tincidunt.
+                            Nullam tristique, nibh vitae posuere viverra, ex nisl porta massa, non eleifend tellus leo sed orci. Nullam posuere, magna eu pulvinar gravida, tortor dui fringilla nisl, id sagittis risus magna et justo. Fusce non malesuada
+                            lacus.</p>
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
-    </section>
+    </div>
+    <!-- About Barren Model End-->
+    <!-- Header Start-->
+    <?php include "header.php";?>
+        <!-- Header End-->
+        <!-- Body Start-->
+        <div class="wrapper">
+            <div class="breadcrumb-block">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12 col-md-10">
+                            <div class="barren-breadcrumb">
+                                <nav aria-label="breadcrumb">
+                                    <ol class="breadcrumb">
+                                        <li class="breadcrumb-item"><a href="index.php">Home</a> / </li>
+                                        <li class="breadcrumb-item active" aria-current="page">About Us</li>
+                                    </ol>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="">
+                <div class="container">
+                    <main class="wrap">
+                        <div class="main-title checkout-title text-left">
+                            <h2 class="mt-5">About MiracleSports</h2>
+                        </div>
+                        <h3>Making Tournament Booking & Management Effortless</h3>
+                        <p class="lead">
+                            MiracleSports is a modern platform that brings <strong>players, teams, and organisers</strong> together. Discover events, book entries, manage fixtures, track results — all in one place.
+                        </p>
 
-    <section class="grid grid-3">
-      <div class="card">
+                        <section class="grid grid-2 mission-container mt-3">
+                            <div class="card mission">
+                                <h2>Our Mission</h2>
+                                <p>
+                                    We empower the sports community by digitising how tournaments are discovered, booked, and run — so everyone can focus on what truly matters: <strong>the game</strong>.
+                                </p>
+
+                                <h2>What We Do</h2>
+                                <ul class="lh-lg">
+                                    <li><strong>Online Tournament Bookings:</strong> Find, register, and pay in a few clicks.</li>
+                                    <li><strong>Team & Player Management:</strong> Build squads, add players, track participation.</li>
+                                    <li><strong>Organiser Dashboard:</strong> Publish events, manage entries, fixtures, and results.</li>
+                                    <li><strong>Secure Payments:</strong> Fast, safe transactions with trusted gateways.</li>
+                                    <li><strong>Live Updates & Alerts:</strong> Schedules, venue details, scores — instantly.</li>
+                                </ul>
+                            </div>
+                            <div class="mission">
+                                <div class="kpis">
+                                    <div class="kpi">
+                                        <div class="num">1 Platform</div>
+                                        <div>For all your tournaments</div>
+                                    </div>
+                                    <div class="kpi">
+                                        <div class="num">24/7</div>
+                                        <div>Booking access</div>
+                                    </div>
+                                    <div class="kpi">
+                                        <div class="num">Secure</div>
+                                        <div>Payments & data</div>
+                                    </div>
+                                    <div class="kpi">
+                                        <div class="num">Real-time</div>
+                                        <div>Updates & alerts</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+
+                        <section class="grid grid-3 mlefttminus ">
+                           <div class="mission-container">
+
+    <div class="card mission">
         <h2>Players & Teams</h2>
         <p>
-          Register for tournaments, manage rosters, and stay informed with schedules and score updates.
+            Register for tournaments, manage rosters, and stay informed with schedules and score updates.
         </p>
-      </div>
-      <div class="card">
+    </div>
+
+    <div class="card mission">
         <h2>Organisers</h2>
         <p>
-          Create listings, collect fees, set rules, generate fixtures, and publish results — professionally and fast.
+            Create listings, collect fees, set rules, generate fixtures, and publish results — professionally and fast.
         </p>
-      </div>
-      <div class="card">
+    </div>
+
+    <div class="card mission">
         <h2>Fans & Community</h2>
         <p>
-          Follow teams, track fixtures, and celebrate every win. We’re building a home for grassroots sport.
+            Follow teams, track fixtures, and celebrate every win. We’re building a home for grassroots sport.
         </p>
-      </div>
-    </section>
+    </div>
 
-    <section class="card">
-      <h2>Our Vision & Values</h2>
-      <ul>
-        <li><strong>Transparency:</strong> Every booking, payment, and update is clear and traceable.</li>
-        <li><strong>Fair Play:</strong> We champion sportsmanship and integrity on and off the field.</li>
-        <li><strong>Innovation:</strong> Constantly improving tools to enhance your experience.</li>
-        <li><strong>Community:</strong> Powering local tournaments and nurturing talent at every level.</li>
-      </ul>
-    </section>
+</div>
 
-    <section class="card">
-      <h2>Get in Touch</h2>
-      <p><strong>Email:</strong> <a href="mailto:support@miraclesports.in">support@miraclesports.in</a></p>
-      <p><strong>Phone:</strong> +91-63697 57515</p>
-      <p><strong>Office:</strong>Kongu Nagar, Kallimadai, Coimbatore, Tamil Nadu 641045</p>
-      <p><strong>Website:</strong> <a href="https://support@miraclesports.in" target="_blank" rel="noopener">support@miraclesports.in</a></p>
-    </section>
+                        </section>
 
-    <!--<div class="footer">-->
-    <!--  © <span id="year"></span> MiracleSports. All rights reserved.-->
-    <!--</div>-->
-  </main>
-			</div>
-		</div>
-		<!-- <div class="host-engaging-event-block p-80">
+                        <section class="card mission" style="margin-left:3px">
+                            <h2>Our Vision & Values</h2>
+                            <ul class="lh-lg">
+                                <li><strong>Transparency:</strong> Every booking, payment, and update is clear and traceable.</li>
+                                <li><strong>Fair Play:</strong> We champion sportsmanship and integrity on and off the field.</li>
+                                <li><strong>Innovation:</strong> Constantly improving tools to enhance your experience.</li>
+                                <li><strong>Community:</strong> Powering local tournaments and nurturing talent at every level.</li>
+                            </ul>
+                        </section>
+
+                        <section class="card mission" style="margin-left:3px">
+                            <h2>Get in Touch</h2>
+                            <p><strong>Email:</strong> <a href="mailto:support@miraclesports.in">support@miraclesports.in</a></p>
+                            <p><strong>Phone:</strong> +91-63697 57515</p>
+                            <p><strong>Office:</strong>Kongu Nagar, Kallimadai, Coimbatore, Tamil Nadu 641045</p>
+                            <p><strong>Website:</strong> <a href="https://support@miraclesports.in" target="_blank" rel="noopener">support@miraclesports.in</a></p>
+                        </section>
+
+                        <!--<div class="footer">-->
+                        <!--  © <span id="year"></span> MiracleSports. All rights reserved.-->
+                        <!--</div>-->
+                    </main>
+                </div>
+            </div>
+            <!-- <div class="host-engaging-event-block p-80">
 			<div class="container">
 				<div class="row">
 					<div class="col-xl-12 col-lg-12 col-md-12">
@@ -568,19 +612,20 @@
 			</div>
 		</div>
 	</div> -->
-	<!-- Body End-->
-	<!-- Footer Start-->
-	<?php include "footer.php";?>
-	<!-- Footer End-->
-	
-	
-	<script src="js/jquery.min.html"></script>
-	<script src="vendor/bootstrap/js/bootstrap.bundle.min.html"></script>
-	<script src="vendor/OwlCarousel/owl.carousel.html"></script>
-	<script src="vendor/bootstrap-select/dist/js/bootstrap-select.min.html"></script>	
-	<script src="js/custom.html"></script>
-	<script src="js/night-mode.html"></script>
+            <!-- Body End-->
+            <!-- Footer Start-->
+            <?php include "footer.php";?>
+                <!-- Footer End-->
+
+
+                <script src="js/jquery.min.html"></script>
+                <script src="vendor/bootstrap/js/bootstrap.bundle.min.html"></script>
+                <script src="vendor/OwlCarousel/owl.carousel.html"></script>
+                <script src="vendor/bootstrap-select/dist/js/bootstrap-select.min.html"></script>
+                <script src="js/custom.html"></script>
+                <script src="js/night-mode.html"></script>
 </body>
 
 <!-- Mirrored from www.gambolthemes.net/html-items/barren-html/disable-demo-link/about_us.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 16 Oct 2025 13:21:37 GMT -->
+
 </html>

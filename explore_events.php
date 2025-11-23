@@ -44,7 +44,7 @@ include'session.php';
 	<!-- Header End-->
 	<!-- Body Start-->
 	<div class="wrapper">
-		<div class="hero-banner">
+		<div class="hero-banner events">
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-xl-8 col-lg-8 col-md-10">

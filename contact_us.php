@@ -7,7 +7,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, shrink-to-fit=9">
 		<meta name="description" content="Gambolthemes">
-		<meta name="author" content="Gambolthemes">		
+		<meta name="author" content="Gambolthemes">	
 		<title>Barren - Simple Online Event Ticketing System</title>
 		
 		<!-- Favicon Icon -->
@@ -27,7 +27,12 @@
 		<link href="vendor/OwlCarousel/assets/owl.carousel.css" rel="stylesheet">
 		<link href="vendor/OwlCarousel/assets/owl.theme.default.min.css" rel="stylesheet">
 		<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-		<link href="vendor/bootstrap-select/dist/css/bootstrap-select.min.css" rel="stylesheet">		
+		<link href="vendor/bootstrap-select/dist/css/bootstrap-select.min.css" rel="stylesheet">	
+		
+		<!-- Project CSS -->
+		<link href="css/styles.css" rel="stylesheet">
+		<link href="css/responsive.css" rel="stylesheet">
+		<link href="css/night-mode.css" rel="stylesheet">
 		
 	</head>
 
@@ -44,7 +49,7 @@
 						<div class="barren-breadcrumb">
 							<nav aria-label="breadcrumb">
 								<ol class="breadcrumb">
-									<li class="breadcrumb-item"><a href="index.php">Home</a></li>
+									<li class="breadcrumb-item"><a href="index.php">Home</a> / </li>
 									<li class="breadcrumb-item active" aria-current="page">Contact Us</li>
 								</ol>
 							</nav>
